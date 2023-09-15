@@ -1,0 +1,4 @@
+class tu extends thread
+// {
+    
+// }

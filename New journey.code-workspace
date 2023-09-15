@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "New journey",
+			"path": "../HTML_JAVASCRIPT/New journey"
+		}
+	],
+	"settings": {
+		"python.analysis.typeCheckingMode": "off"
+	}
+}
